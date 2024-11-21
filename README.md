@@ -1,0 +1,3 @@
+Este é meu projeto de TCC, estou avaliando a plataforma do Microsoft Sentinel em conjunto das ferramentas do Azure como plataforma analítica para interpretar algumas amostras da radiação de fundo da internet afins de adquirir inteligência sobre as ameaças cibernéticas.
+
+O codigo deste repositório é apenas é apenas uma parte do meu projeto, aqui estou criando separadamente via "Azure Function" uma maneira de alimentar a plataforma com os dados do dataset de maio de 2023 coletados pelo grupo de pesquisa do professor Fabricio Bortoluzzi. Desta forma eu consigo gerenciar os dados que serão interpretados pelo Sentinel.
